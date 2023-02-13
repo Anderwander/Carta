@@ -1,3 +1,3 @@
 # Carta
-La carta que tenemos que hacer para empezar
+##La carta que tenemos que hacer para empezar
 esto es una prueba
